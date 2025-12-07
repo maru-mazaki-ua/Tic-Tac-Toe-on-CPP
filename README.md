@@ -14,11 +14,11 @@ If all board is filled with characters and there's no winning combinations, it w
 
 My project is multiplayer version of this game, because I'm too low to make "Vs. CPU" mode.
 But still, I like my creation a lot.
-Project features little intro I made, after which we see big ASCII-art-styled logo of the game:
+Project features a little intro I made, after which we see big ASCII-art-styled logo of the game:
 
 ![Logo](logo.png)
 
-Here you must type capital of small letter `A` to start the game.
+Here you must type capital or small letter `A` to start the game.
 Then, you(and your friend, if you have one) have to type names of players and how many rounds you wanna play.
 And then the fun begins!
 Xs and Os also ASCII-art-styled, by the way, but their designs are kinda simple, ngl.
