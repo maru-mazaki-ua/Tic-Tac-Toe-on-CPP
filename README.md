@@ -19,14 +19,19 @@ Project features a little intro I made, after which we see big ASCII-art-styled 
 ![Logo](logo.png)
 
 Here you must type capital or small letter `A` to start the game.
-Then, you(and your friend, if you have one) have to type names of players and how many rounds you wanna play.
+Then, you(and your friend, if you have one) have to type names of players and *how many rounds you wanna play*.
 And then the fun begins!
 Xs and Os also ASCII-art-styled, by the way, but their designs are kinda simple, ngl.
 
 ![Footage](ezgif-311558e3429168d5.gif)
 
+To place your character in the board, you must type both row and column you want it to be in - it's because the board is 3x3 matrix.
+Wanna place your X at the center? Type 2, the 2 again.
+Wanna place your O at the upper right corner? Type 1, then 3.
+First number is a row, second one - is a column. Yup, it's pretty simple.
+
 If you make a winning combination, you gain a +1 point to your **score**(you can see it in the upper part of console).
-If your score equals to number of rounds, you win:
+If your **score** equals to *number of rounds*, you win:
 
 ![Win](scr_win.png)
 
@@ -36,5 +41,4 @@ If your score equals to number of rounds, you win:
 - The game has no code that responds in case if there's a draw.
 
 That's all! Hope you like it!
-
- - Maru.
+- Maru.
