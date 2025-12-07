@@ -123,7 +123,7 @@ int main() {
 	this_thread::sleep_for(chrono::seconds(4));
 	cout << endl;
 	cout << "(Includes ASCII-art!)" << endl;
-	cout << "With love by Nelin Artem(@see_2pee_boi), 2025(c)" << endl;
+	cout << "With love by Temaru Mazaki, 2025(c)" << endl;
 	cout << "Input A to start: ";
 	cin >> start;
 	if (start == 'A' || start == 'a') {
@@ -330,4 +330,5 @@ int main() {
 		system("cls");
 		cout << "\33[31mOops! Something went wrong! Restart the console!";
 	}
+
 }
