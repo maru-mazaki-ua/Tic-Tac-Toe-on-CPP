@@ -42,4 +42,4 @@ If your **score** equals to *number of rounds*, you win:
 - The game has no code that responds in case if there's a draw.
 
 That's all! Hope you like it!
-- Maru.
+- Ki Maru.
