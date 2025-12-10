@@ -19,7 +19,7 @@ Project features a little intro I made, after which we see big ASCII-art-styled 
 ![Logo](logo.png)
 
 Here you must type capital or small letter `A` to start the game.
-Then, you(and your friend, if you have one) have to type names of players and *how many rounds you wanna play*.
+Then, you(and your friend, if you have one) have to type names of players(without spaces, as you can see) and *how many rounds you wanna play*.
 And then the fun begins!
 Xs and Os also ASCII-art-styled, by the way, but their designs are kinda simple, ngl.
 
@@ -38,6 +38,7 @@ If your **score** equals to *number of rounds*, you win:
 # Known flaws
 
 - Because of the intro, the game starts kinda slow;
+- Names of players can't have spaces, because of them being `string` data type;
 - The game has no code that responds in case if there's a draw.
 
 That's all! Hope you like it!
