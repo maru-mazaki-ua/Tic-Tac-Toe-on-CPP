@@ -8,7 +8,7 @@ It's a pretty famous simple turn-based game. You play either as **Xs** or **Os**
 This game is for 2 players, so your rival has the same goal as yours, but uses different character.
 For example, if you use **Xs**, your rival will use **Os** and vice versa.
 
-If all board is filled with characters and there's no winning combinations, it will be **draw**.
+If all board is filled with characters and there's no winning combinations, there will be **draw**.
 
 # About my project
 
