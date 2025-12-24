@@ -38,7 +38,6 @@ If your **score** equals to *number of rounds*, you win:
 # Known flaws
 
 - Because of the intro, the game starts kinda slow;
-- Names of players can't have spaces, because of them being `string` data type;
 - The game has no code that responds in case if there's a draw.
 
 That's all! Hope you like it!
