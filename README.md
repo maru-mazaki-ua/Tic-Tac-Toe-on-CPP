@@ -23,7 +23,7 @@ Then, you(and your friend, if you have one) have to type names of players and *h
 And then the fun begins!
 Xs and Os also ASCII-art-styled, by the way, but their designs are kinda simple, ngl.
 
-Also, don't mind that "write without spaces, or strings will rip away" warning - I forgot that `string` data type actual can have spaces, my bad.
+Also, don't mind that "write without spaces, or strings will rip away" warning - I forgot that `string` data type actually can have spaces, my bad.
 
 ![Footage](ezgif-311558e3429168d5.gif)
 
