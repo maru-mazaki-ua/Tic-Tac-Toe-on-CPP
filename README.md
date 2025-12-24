@@ -28,7 +28,7 @@ Also, don't mind that "write without spaces, or strings will rip away" warning -
 ![Footage](ezgif-311558e3429168d5.gif)
 
 To place your character in the board, you must type both row and column you want it to be in - it's because the board is 3x3 matrix.
-Wanna place your X at the center? Type 2, the 2 again.
+Wanna place your X at the center? Type 2, then 2 again.
 Wanna place your O at the upper right corner? Type 1, then 3.
 First number is a row, second one - is a column. Yup, it's pretty simple.
 
