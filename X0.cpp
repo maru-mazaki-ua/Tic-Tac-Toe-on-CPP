@@ -129,7 +129,6 @@ int main() {
 	if (start == 'A' || start == 'a') {
 		system("cls");
 		cout << "Okay, first we must know names of our players!" << endl;
-		cout << "Please, write without spaces, because our STRINGS will rip away!" << endl;
 		cout << " " << endl;
 		cout << "Player 1, your name is: ";
 		cin >> player1;
@@ -332,3 +331,4 @@ int main() {
 	}
 
 }
+
