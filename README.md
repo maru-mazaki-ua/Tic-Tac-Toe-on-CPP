@@ -23,8 +23,6 @@ Then, you(and your friend, if you have one) have to type names of players and *h
 And then the fun begins!
 Xs and Os also ASCII-art-styled, by the way, but their designs are kinda simple, ngl.
 
-Also, don't mind that "write without spaces, or strings will rip away" warning - I forgot that `string` data type actually can have spaces, my bad.
-
 ![Footage](ezgif-311558e3429168d5.gif)
 
 To place your character in the board, you must type both row and column you want it to be in - it's because the board is 3x3 matrix.
